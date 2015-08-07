@@ -18,7 +18,7 @@ describe('Controller: MainCtrl', function () {
   }));
 
   it ('no debe tener item al empezar', function () {
-    expect(scope.todos.length).toBe(0);
+    expect(scope.tareas.length).toBe(0);
   });
 
   it ('debe añadir items a la lista', function() {
