@@ -11,6 +11,14 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
+## Git ignore
+
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+
 ## Credits
 
 To-Do list by Rafael Carlucci aka. @icculrac
